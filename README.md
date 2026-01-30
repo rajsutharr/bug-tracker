@@ -1,5 +1,5 @@
 ~Full-Stack Bug Tracker Kanban
-A professional, real-time issue management tool built with FastAPI and React. This project features a dynamic Kanban board with drag-and-drop persistence, live search, and full CRUD (Create, Read, Update, Delete) capabilities.
+A professional, real-time issue management tool built with FastAPI and React. This project features a dynamic Kanban board with drag-and-drop persistence, live search, and full CRUD (Create, Read, Update, Delete) capabilities .
 
 ~Key Features
 Interactive Kanban: Seamlessly drag cards between "To Do", "In Progress", and "Done" columns.
